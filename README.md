@@ -1,6 +1,6 @@
  # Olá! Eu sou o Renan
 
- - 🔭 Estou estudando para ser back-end
+ - 🔭 Estou interessado em ser back-end
 
  - 📚 Eu estudo Python
 
